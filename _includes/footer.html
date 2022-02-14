@@ -1,0 +1,35 @@
+<footer class="site-footer h-card">
+
+<style>
+    .colfooter {
+      float: left;
+      width: 33.33%;
+      text-align: center;
+    }
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+    }
+}
+</style>
+
+<div class=row>
+
+    <div class="colfooter">
+        <p>© {{ site.time | date: '%Y' }} Fanny Desarzens</p>
+    </div>
+    <div class="colfooter">
+        <p style="font-size: 14px; color: grey;">Née en 1993, Fanny Desarzens est diplômée en arts visuels de la  HEAD-Genève. 
+        En 2020, sa nouvelle Lignine est lauréate du  concours littéraire organisé à l’occasion des 
+        60 ans de la revue choisir.</p>
+        </div>
+    <div class="colfooter"><a href="url">Un lien sur insta?</a></div>
+
+</footer>
