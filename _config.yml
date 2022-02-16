@@ -4,6 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Fanny Desarzens
 title: Fanny Desarzens
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -15,6 +16,8 @@ url: "https://melindafemminis.github.io" # the base hostname & protocol for your
 theme: minima
 plugins:
   - jekyll-feed
+minima: 
+  skin: dark
 
 footerphrase: Née en 1993, Fanny Desarzens est diplômée en arts visuels de la  HEAD-Genève. En 2020, sa nouvelle Lignine est lauréate du  concours littéraire organisé à l’occasion des 60 ans de la revue Choisir.
 
@@ -23,9 +26,19 @@ collections:
     output: true
     permalink: /evenements/:path/
   presse:
-    outpus: true
+    output: true
     permalink: /presse/:path/
+  ouvrages:
+    sort_by: year
 
+header_pages:
+  - index.md
+  - ouvrages.md
+  - evenements.md
+  - biographie.md
+
+instagram_username: fanny_desarzens
+email: femminis.mda@gmail.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
