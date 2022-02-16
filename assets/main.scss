@@ -82,4 +82,19 @@ $link-color:      #2e3e85 !default;
   background: linear-gradient(to bottom left, #e5e9eb 40%, #b3c4c6 100%);
 }
 
+
 @import "minima";
+
+@include media-query($on-palm) {
+  .footer-col {
+    float: none;
+    text-align: center;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+  p, img, h1, h2 {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
