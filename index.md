@@ -1,7 +1,6 @@
 ---
 layout: home2col
 title: Accueil
-nav-order: 0
 ---
 
 # Disponible en librairie !
