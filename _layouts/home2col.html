@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <style>
+    .column {
+      float: left;
+      width: 50%;
+    }
+    
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+      }
+    }
+    </style>
+
+  <body>
+
+    {%- include header.html -%}
+    <br>
+    <br>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+            
+            <div class="row">
+            
+              <div class="column">
+                <img src="images/home_image.pdf" alt="Converture de livre - Fanny Desarzens">
+              </div>
+            
+              <div class="column">
+                {{ content }}
+            
+              </div>
+            
+            </div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

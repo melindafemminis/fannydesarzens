@@ -7,9 +7,7 @@
 title: Fanny Desarzens
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Née en 1993, Fanny Desarzens est diplômée en arts visuels de la  HEAD-Genève. 
-  En 2020, sa nouvelle Lignine est lauréate du  concours littéraire organisé à l’occasion 
-  des 60 ans de la revue choisir.
+  Auteure
 baseurl: "/fannydesarzens" # the subpath of your site, e.g. /blog
 url: "https://melindafemminis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,6 +15,17 @@ url: "https://melindafemminis.github.io" # the base hostname & protocol for your
 theme: minima
 plugins:
   - jekyll-feed
+
+footerphrase: Née en 1993, Fanny Desarzens est diplômée en arts visuels de la  HEAD-Genève. En 2020, sa nouvelle Lignine est lauréate du  concours littéraire organisé à l’occasion des 60 ans de la revue Choisir.
+
+collections: 
+  evenements:
+    output: true
+    permalink: /evenements/:path/
+  presse:
+    outpus: true
+    permalink: /presse/:path/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
