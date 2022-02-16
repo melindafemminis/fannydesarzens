@@ -7,19 +7,24 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            Built with <a href="https://jekyllrb.com/">Jekyll</a>, hosted by <a href="https://pages.github.com/">GitHub Pages</a>
-            <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
+            <p>CONTACT</p>
             {%- include social.html -%}
+            {%- if site.email -%}
+            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            {%- endif -%}
+            <br><br>
+            <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <img src="https://melindafemminis.github.io/fannydesarzens/images/portrait_rouge.jpeg" width="200px">
+        <img src="https://melindafemminis.github.io/fannydesarzens/images/portrait_rouge.jpeg">
         <br>
       </div>
 
       <div class="footer-col footer-col-3">
-        {{ site.footerphrase }}
+        {{ site.footerphrase }} <br><br>
+        Built with <a href="https://jekyllrb.com/">Jekyll</a>, hosted by <a href="https://pages.github.com/">GitHub Pages</a>
       </div>
     </div>
 
