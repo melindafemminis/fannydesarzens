@@ -4,17 +4,21 @@ title: Evenements
 permalink: evenements
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Evenements à venir à passés.
 <br>
 <br>
 <hr>
 
-# Vernissage du roman "Galel"
-**00 févirer 2022** | Payot Lausanne | 15h30 -17h
+# Tout à coup tout le monde se tait: les paysages sonores de Galel 
+**18 févirer 2022** | avec [Dayla Mischler](https://daylamischler.tumblr.com) | [Standard Deluxe](http://www.standard-deluxe.ch/index.php) - Lausanne | dès 18h30 | [Evenement](http://www.standard-deluxe.ch/full_content.php?expo=220218_tout-le-monde-se-tait)
 <hr>
 
 # Vernissage du roman "Galel"
-**21 janvier 2022** | Payot Morges | 18h -20h
+**00 févirer 2022** | Payot Lausanne | 15h30-17h
+<hr>
+
+# Vernissage du roman "Galel" 
+**21 janvier 2022** | Payot Morges | 18h-20h | [Voir l'évènement](https://evenements.payot.ch/evenement/fanny-desarzens-lausanne-2022/)
 
 <hr>
 

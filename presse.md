@@ -4,10 +4,14 @@ title: Presse
 permalink: presse
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-<br>
+On en parle ! Retrouvez l'auteure au travers des différents entretiens et articles parus dans la presse. 
+
 <br>
 
+<hr>
+# [Article du journal 24heures](https://www.24heures.ch/une-ode-a-la-montagne-tres-inspiree-par-ramuz-711687498969) 
+**17 févirer 2022** | Journal 24heures | [Voir](https://www.rts.ch/info/culture/livres/12869020-galel-de-fanny-desarzens-lamitie-a-lepreuve-de-la-montagne.html)
+[](https://www.24heures.ch/une-ode-a-la-montagne-tres-inspiree-par-ramuz-711687498969)
 <hr>
 
 # [QWERTZ - RTS Culture, Entretien](https://www.rts.ch/info/culture/livres/12869020-galel-de-fanny-desarzens-lamitie-a-lepreuve-de-la-montagne.html)

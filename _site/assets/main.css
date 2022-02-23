@@ -2,7 +2,6 @@
 
 .site-footer { border-top: 1px solid #959594; background-color: #dadfe4; }
 
-/* Design */
 .card_img { width: 300px; max-width: 100%; height: auto; vertical-align: middle; text-align: center; }
 
 .btn { padding: 0.8rem; font-size: 14px; text-transform: uppercase; display: block; width: 100%; cursor: pointer; border: 1px solid #27380c; background: transparent; border-radius: 0.25rem; }

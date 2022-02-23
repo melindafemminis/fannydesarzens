@@ -4,7 +4,7 @@
 # General
 author: Fanny Desarzens
 title: Fanny Desarzens
-email: your-email@example.com
+email: your-email[@]example.com
 description: >- # ignore newlines until "baseurl:"
   Auteure
 baseurl: "/fannydesarzens"
